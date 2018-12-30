@@ -21,3 +21,6 @@ node liri.js movie-this <movie name here>
 ### Get Random.txt Information
 Gets song name from within the Random.txt file and runs the Spotify song search. <br/>
 node liri.js do-what-it-says
+
+## View Demo
+[Link to Video Demo](../homework_9.webm)
