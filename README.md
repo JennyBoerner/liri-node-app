@@ -23,4 +23,4 @@ Gets song name from within the Random.txt file and runs the Spotify song search.
 node liri.js do-what-it-says
 
 ## View Demo
-[Link to Video Demo](../homework_9.webm)
+[Link to Video Demo](./homework_9.webm)
